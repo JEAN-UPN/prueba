@@ -1,0 +1,10 @@
+D:\UNIVERSIDAD\4-CICLO\Estructura de datos\JP_S10_E1\JP_S10_E1\bin\Debug\JP_S10_E1.exe.config
+D:\UNIVERSIDAD\4-CICLO\Estructura de datos\JP_S10_E1\JP_S10_E1\bin\Debug\JP_S10_E1.exe
+D:\UNIVERSIDAD\4-CICLO\Estructura de datos\JP_S10_E1\JP_S10_E1\bin\Debug\JP_S10_E1.pdb
+D:\UNIVERSIDAD\4-CICLO\Estructura de datos\JP_S10_E1\JP_S10_E1\obj\Debug\JP_S10_E1.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\4-CICLO\Estructura de datos\JP_S10_E1\JP_S10_E1\obj\Debug\JP_S10_E1.Form1.resources
+D:\UNIVERSIDAD\4-CICLO\Estructura de datos\JP_S10_E1\JP_S10_E1\obj\Debug\JP_S10_E1.Properties.Resources.resources
+D:\UNIVERSIDAD\4-CICLO\Estructura de datos\JP_S10_E1\JP_S10_E1\obj\Debug\JP_S10_E1.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\4-CICLO\Estructura de datos\JP_S10_E1\JP_S10_E1\obj\Debug\JP_S10_E1.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\4-CICLO\Estructura de datos\JP_S10_E1\JP_S10_E1\obj\Debug\JP_S10_E1.exe
+D:\UNIVERSIDAD\4-CICLO\Estructura de datos\JP_S10_E1\JP_S10_E1\obj\Debug\JP_S10_E1.pdb
